@@ -32,7 +32,7 @@
 
 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanila2007/YouTube_bot_telegram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/)
 
 ## Disclaimer 
 
@@ -41,14 +41,14 @@ Heroku
 ```
 ## Credits
 
-- [YouTube-bot-telegram](https://github.com/sanila2007/YouTube_bot_telegram)
+- [YouTube-bot-telegram](https://github.com/deadprogramers/YouTubeplalistdownloader)
 ```
 
 ## Credits
 
-- [Sanila Ranatunga](https://github.com/sanila2007)
+- [deadprogramers](https://github.com/deadprogramers)
 
-Any issues with this? Feel free to open a [New Issue](https://github.com/sanila2007/YouTube_bot_telegram/issues)
+Any issues with this? Feel free to open a [New Issue](https://github.com/deadprogramers/youtubeplaylistdownloader/issues)
 
-> Made with 💞 by <a href="https://github.com/sanila2007/YouTube_bot_telegram">@sanila2007</a>
+> Made with 💞 by <a href="https://github.com/deadprogramers/youtubeplaylistdownloader">@hyper7h</a>
  
