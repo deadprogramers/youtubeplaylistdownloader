@@ -1,4 +1,4 @@
-# Copyright ©️ 2023 Sanila Ranatunga. All Rights Reserved
+# Copyright ©️ 2023 hyper7h. All Rights Reserved
 
 from pyrogram import Client
 from config import Config
